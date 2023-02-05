@@ -5,7 +5,7 @@
  */
 
 var app = require('./app');
-var debug = require('debug')('week3d:server');
+var debug = require('debug')('week4d:server');
 var http = require('http');
 
 /**
